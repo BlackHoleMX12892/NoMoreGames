@@ -1,0 +1,13 @@
+{
+	"geode": "2.0.0-beta.9",
+	"gd": {
+		"win": "2.204",
+		"android": "*",
+		"mac": "2.200"
+	},
+	"version": "v1.0.0",
+	"id": "blackholemx.nomoregames",
+	"name": "NoMoreGames",
+	"developer": "BlackHoleMX",
+	"description": "Removes that useless button"
+}
