@@ -1,3 +1,3 @@
 # NoMoreGames
 
-This is where she makes a mod.
+This mod deletes the more games button!
