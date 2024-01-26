@@ -9,5 +9,12 @@
 	"id": "blackholemx.nomoregames",
 	"name": "NoMoreGames",
 	"developer": "BlackHoleMX",
-	"description": "Removes that useless button"
+	"description": "Removes that useless button",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }
+    ]
 }
