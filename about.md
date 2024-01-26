@@ -1,3 +1,3 @@
 # NoMoreGames
 
-This mod deletes the no more games button!
+This mod deletes the more games button!
