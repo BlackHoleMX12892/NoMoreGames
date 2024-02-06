@@ -10,5 +10,12 @@
 	"name": "NoMoreGames",
 	"developer": "BlackHoleMX",
 	"description": "Removes that useless button",
-	"repository": "https://github.com/BlackHoleMX12892/NoMoreGames"
+	"repository": "https://github.com/BlackHoleMX12892/NoMoreGames",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.2.4",
+            "importance": "required"
+        }
+    ]
 }
